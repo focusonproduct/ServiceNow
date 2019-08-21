@@ -6,7 +6,7 @@
         <action_insert>false</action_insert>
         <action_query>false</action_query>
         <action_update>false</action_update>
-        <active>true</active>
+        <active>false</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -54,7 +54,7 @@ gs.info('u_password: ' + myPass);
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1e7f62d388d373007f44d28b2d94cc84</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Retrieved Credentials</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7ee8f03a88d733007f44d28b2d94cc94</sys_package>
@@ -62,7 +62,7 @@ gs.info('u_password: ' + myPass);
         <sys_scope display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</sys_scope>
         <sys_update_name>sys_script_1e7f62d388d373007f44d28b2d94cc84</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-21 19:23:23</sys_updated_on>
+        <sys_updated_on>2019-08-21 20:46:49</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
