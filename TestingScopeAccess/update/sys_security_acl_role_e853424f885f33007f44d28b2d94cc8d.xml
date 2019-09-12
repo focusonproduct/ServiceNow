@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 21:26:53</sys_created_on>
+        <sys_id>e853424f885f33007f44d28b2d94cc8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_testing_ap_testing_scope.x_cdltd_testing_ap.testing_scope_user</sys_name>
+        <sys_package display_value="Testing Application Access" source="x_cdltd_testing_ap">bce24e0f885f33007f44d28b2d94cce6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Application Access">bce24e0f885f33007f44d28b2d94cce6</sys_scope>
+        <sys_security_acl display_value="x_cdltd_testing_ap_testing_scope">2053424f885f33007f44d28b2d94cc8b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e853424f885f33007f44d28b2d94cc8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 21:26:53</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_testing_ap.testing_scope_user" name="x_cdltd_testing_ap.testing_scope_user">5853ce0f885f33007f44d28b2d94cce4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
