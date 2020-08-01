@@ -3,7 +3,6 @@
         <active>true</active>
         <application display_value="Loaner Request">accbb03e88d733007f44d28b2d94cce5</application>
         <assessment/>
-        <content_page/>
         <device_type/>
         <filter/>
         <hint>Create a new loaner request</hint>

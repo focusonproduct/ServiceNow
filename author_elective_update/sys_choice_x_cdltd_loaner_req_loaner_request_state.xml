@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_cdltd_loaner_req_loaner_request" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_cdltd_loaner_req_loaner_request" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>New York</label>
+            <label>Requested</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>0</sequence>
@@ -13,18 +13,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>29491d76881b33007f44d28b2d94cc79</sys_id>
+            <sys_id>95491d76881b33007f44d28b2d94cc47</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>ny</value>
+            <value>13</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>London</label>
+            <label>Reserved</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>1</sequence>
@@ -32,18 +32,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a5491d76881b33007f44d28b2d94cc7b</sys_id>
+            <sys_id>55491d76881b33007f44d28b2d94cc49</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>london</value>
+            <value>14</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Buenos Aires</label>
+            <label>Deployment Prep</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>2</sequence>
@@ -51,18 +51,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>61491d76881b33007f44d28b2d94cc7d</sys_id>
+            <sys_id>11491d76881b33007f44d28b2d94cc4b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>ba</value>
+            <value>15</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Santa Clara</label>
+            <label>Ready for Pickup</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>3</sequence>
@@ -70,18 +70,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2d491d76881b33007f44d28b2d94cc7e</sys_id>
+            <sys_id>d9491d76881b33007f44d28b2d94cc4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>sc</value>
+            <value>16</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Singapore</label>
+            <label>Checked Out</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>4</sequence>
@@ -89,18 +89,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e5491d76881b33007f44d28b2d94cc80</sys_id>
+            <sys_id>95491d76881b33007f44d28b2d94cc4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>singapore</value>
+            <value>17</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Sydney</label>
+            <label>Post Deployment</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>5</sequence>
@@ -108,18 +108,18 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a1491d76881b33007f44d28b2d94cc82</sys_id>
+            <sys_id>51491d76881b33007f44d28b2d94cc50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>sydney</value>
+            <value>18</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>depot</element>
+            <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Other</label>
+            <label>Closed Complete</label>
             <language>en</language>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sequence>6</sequence>
@@ -127,25 +127,25 @@
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6d491d76881b33007f44d28b2d94cc83</sys_id>
+            <sys_id>1d491d76881b33007f44d28b2d94cc51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
-            <value>other</value>
+            <value>3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>depot</element>
+            <element>state</element>
             <name>x_cdltd_loaner_req_loaner_request</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-19 23:44:41</sys_created_on>
-            <sys_id>61491d76881b33007f44d28b2d94cc7a</sys_id>
+            <sys_id>df435ba6db1e50108159ab7dca9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>depot</sys_name>
+            <sys_name>state</sys_name>
             <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7ee8f03a88d733007f44d28b2d94cc94</sys_package>
             <sys_policy/>
             <sys_scope display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</sys_scope>
-            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_depot</sys_update_name>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_state</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-19 23:44:41</sys_updated_on>
         </sys_choice_set>

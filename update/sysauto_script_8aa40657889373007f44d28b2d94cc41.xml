@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
     <sysauto_script action="INSERT_OR_UPDATE">
         <active>true</active>
+        <business_calendar/>
         <condition/>
         <conditional>false</conditional>
+        <entered_time/>
         <name>Loaner Item Pick Up</name>
-        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as display_value="Abhi ">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
@@ -49,6 +51,7 @@ var gr = new GlideRecord('x_cdltd_loaner_req_loaner_request');
         <sys_update_name>sysauto_script_8aa40657889373007f44d28b2d94cc41</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-08-21 19:32:47</sys_updated_on>
+        <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
 </record_update>

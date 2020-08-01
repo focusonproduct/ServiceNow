@@ -3,6 +3,7 @@
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
+        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>true</create_access>
@@ -16,7 +17,8 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">fad3c3b4f82323007f44410ebb2b058a</super_class>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">d28ab4a7db030010d9c36a494896199a</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
@@ -31,6 +33,9 @@
         <sys_update_name>sys_db_object_a512da43889f33007f44d28b2d94cc9e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-08-20 23:13:41</sys_updated_on>
+        <u_assignment_group/>
+        <u_problem_number/>
+        <u_short_description/>
         <update_access>true</update_access>
         <user_role display_value="x_cdltd_loaner_req.loaner_task_user" name="x_cdltd_loaner_req.loaner_task_user">2f929e43889f33007f44d28b2d94cc6a</user_role>
         <ws_access>true</ws_access>

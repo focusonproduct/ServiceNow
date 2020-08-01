@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="depot" table="x_cdltd_loaner_req_loaner_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b143d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>ny</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f143d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buenos Aires</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3543d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>ba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Santa Clara</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7543d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>sc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b543d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f543d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3943d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>depot</element>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>abhi</sys_created_by>
+            <sys_created_on>2020-08-01 13:18:47</sys_created_on>
+            <sys_id>7d43d7a6db1e50108159ab7dca961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>depot</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7ee8f03a88d733007f44d28b2d94cc94</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_depot</sys_update_name>
+            <sys_updated_by>abhi</sys_updated_by>
+            <sys_updated_on>2020-08-01 13:18:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</application>
+        <file_path/>
+        <instance_id>d68cce40db40ab04ff27d5b0cf961902</instance_id>
+        <instance_name>dev70737</instance_name>
+        <name>sys_choice_x_cdltd_loaner_req_loaner_request_depot</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_cdltd_loaner_req_loaner_request" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>New York</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>0</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b143d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>ny</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>London</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>1</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f143d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>london</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>Buenos Aires</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>2</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3543d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>ba</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>Santa Clara</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>3</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7543d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>sc</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>Singapore</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>4</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b543d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>singapore</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>Sydney</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>5</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f543d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>sydney</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>depot</element><hint/><inactive>false</inactive><label>Other</label><language>en</language><name>x_cdltd_loaner_req_loaner_request</name><sequence>6</sequence><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3943d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on><value>other</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>depot</element><name>x_cdltd_loaner_req_loaner_request</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>abhi</sys_created_by><sys_created_on>2020-08-01 13:18:47</sys_created_on><sys_id>7d43d7a6db1e50108159ab7dca961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>depot</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7ee8f03a88d733007f44d28b2d94cc94</sys_package><sys_policy/><sys_scope display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</sys_scope><sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_depot</sys_update_name><sys_updated_by>abhi</sys_updated_by><sys_updated_on>2020-08-01 13:18:47</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1245558037</payload_hash>
+        <record_name>Loaner Request.Depot</record_name>
+        <reverted_from/>
+        <source>3908f311db1110108159ab7dca961936</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-06-09 01:44:09</sys_created_on>
+        <sys_id>d3435ba6db1e50108159ab7dca96197c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17296bfc2280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Choice list</type>
+        <update_guid>93435ba6521e50103d61177d53ed1b7c</update_guid>
+        <update_guid_history>93435ba6521e50103d61177d53ed1b7c:1245558037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abhi</sys_created_by>
+        <sys_created_on>2020-08-01 13:18:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>7d43d7a6db1e50108159ab7dca961934</sys_id>
+        <sys_metadata>7d43d7a6db1e50108159ab7dca961934</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>depot</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7ee8f03a88d733007f44d28b2d94cc94</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">7ee8f03a88d733007f44d28b2d94cc94</sys_scope>
+        <sys_scope_delete display_value="">0e68e6d33a8d468fa9f83b1a3ecaa879</sys_scope_delete>
+        <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_depot</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_cdltd_loaner_req_loaner_request_depot">d3435ba6db1e50108159ab7dca96197c</sys_update_version>
+        <sys_updated_by>abhi</sys_updated_by>
+        <sys_updated_on>2020-08-01 13:18:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
